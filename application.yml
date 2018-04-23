@@ -1,1 +1,5 @@
-url: this is the url
+url: https://bmedonline-test.mediolanum.es/Servicios/AppMobile
+config:
+  timeout:
+    connect: 7000
+    read: 15000
