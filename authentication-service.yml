@@ -1,3 +1,4 @@
 services:
   session:
     push: LoginUsuarioXML.aspx/LoginUser_Version
+    logout: LoginUsuarioXML.aspx/LogoutUser

@@ -1,0 +1,2 @@
+services:
+  template: some-resource-path
